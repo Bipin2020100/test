@@ -16,8 +16,9 @@ _This is a different way_
 3. Third
 4. Forth
 
-⋅⋅* one
-⋅⋅* two
+* one
+* two
+* three
 
 
 [This is the link to enjoy](https://www.youtube.com/watch?v=HA6nSQawROM)

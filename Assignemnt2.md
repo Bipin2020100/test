@@ -4,7 +4,7 @@ SpiderMonkey on the other hand uses JavaScript shell in it's open source distrib
 SpiderMonkey is the original JavaScript engine first introduced as part of Netscape Navigator. The updates to SpiderMonkey includes TraceMonkey, IonMonkey. Latest version of Mozilla uses IonMonkey and TraceMonkey is absent from SpiderMonkey type interface engine. Even though V8 is first introduced as a part of google crome, v8 seems to be faster engiene. Substantial updates to spiderMonkey including TraceMonkey has helped close the gap. Where SpiderMonkey compiles JavaScript to an intermediate language which is interpreted later on V8 compiles JavaScript to machine instructions, eliminating a need for an interpreter.
 
 souce taken from:
-<https://developer.mozilla.org/>
-<https://v8.dev/>
-<https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Introduction_to_the_JavaScript_shell>
-<https://www.quora.com/How-do-V8-and-SpiderMonkey-differ>
+* <https://developer.mozilla.org/>
+* <https://v8.dev/>
+* <https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Introduction_to_the_JavaScript_shell>
+* <https://www.quora.com/How-do-V8-and-SpiderMonkey-differ>
